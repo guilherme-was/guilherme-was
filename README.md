@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**guilherme-was/guilherme-was** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+- 🎓 Bachelor in Computer Science
+- 💻 Full Stack Developer
+- ☕ Java | Spring Boot
+- 🅰️ Angular
+- 🐍 Python (experience)
+- 🐳 Docker | Linux | Git
 
-Here are some ideas to get you started:
+## Tech Stack
+- **Languages:** Java, Python
+- **Frontend:** Angular
+- **Backend:** Spring Boot, REST APIs
+- **DevOps:** Docker, NGINX, Linux, Git
+- **Databases:** PostgreSQL, Oracle
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current focus
+- Full stack applications
+- Backend architecture
+- RESTful services
+- Containerized applications
+
+## Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-was/)
+
+---
+⭐ Feel free to explore my repositories
